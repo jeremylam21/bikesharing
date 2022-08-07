@@ -1,6 +1,6 @@
 # bikesharing
 
-[link to dashboard] (https://public.tableau.com/app/profile/jeremy3592/viz/Module14_16598504994530/TripsUsersGender)
+[link to dashboard](https://public.tableau.com/app/profile/jeremy3592/viz/Module14_16598504994530/TripsUsersGender)
 
 ## Overview of the analysis
 The purpose of this analysis was to find trends in usage and trip duration for bike rides. 
